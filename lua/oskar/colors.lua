@@ -8,4 +8,5 @@ vim.cmd.colorscheme("tokyonight-night")
 vim.api.nvim_set_hl(0, "LineNrAbove", { fg = violet })
 vim.api.nvim_set_hl(0, "LineNr", { fg = rose })
 vim.api.nvim_set_hl(0, "LineNrBelow", { fg = violet })
+vim.api.nvim_set_hl(0, "Comment", { fg = "#ff9e64" })
 
